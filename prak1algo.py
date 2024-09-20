@@ -1,0 +1,6 @@
+nama = input("Nama kamu siapa? ")
+lokasi = input("Dari mana asal kamu? ")
+sekolah = input("Sebelumnya bersekolah dimana? ")
+print("halo selamat siang", nama)
+print("wah dari", lokasi)
+print("Pasti menyenangkan di", sekolah)
